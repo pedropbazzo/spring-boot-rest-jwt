@@ -120,5 +120,5 @@ We can call following endpoints by using POSTMAN
    - set content type as in header as `application/json`
  
 ##### => Consume this endpoints with React JS
-This endpoints was consume the [react-js-axios-example](https://github.com/salimerid/react-js-axios-example) .
+This endpoints was consume the [react-js-axios-example](https://github.com/pedropbazzo/react-axios) .
 
